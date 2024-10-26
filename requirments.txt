@@ -1,0 +1,14 @@
+bs4
+datetime
+feedparser
+freegames
+pycoingecko
+pyjokes
+pyttsx3
+requests
+speech_recognition
+turtle
+webbrowser
+wikipedia
+winshell
+pycaw
