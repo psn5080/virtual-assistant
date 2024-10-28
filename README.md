@@ -59,13 +59,13 @@ The project is open for community suggestions and edits, so feel free to do a pu
 
 Run the `VoiceAssistant.py` script to start the assistant in voice mode:
 ```sh
-python [VoiceAssistant.py](http://_vscodecontentref_/#%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cnightfire%5C%5CDocuments%5C%5Ccode%5C%5Cvirtual-assistant%5C%5CVoiceAssistant.py%22%2C%22_sep%22%3A1%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fnightfire%2FDocuments%2Fcode%2Fvirtual-assistant%2FVoiceAssistant.py%22%2C%22scheme%22%3A%22file%22%7D%7D)
+python VoiceAssistant.py
 ```
 
 Text Mode
 Run the TextAssistant.py script to start the assistant in text mode:
 ```sh
-python [TextAssistant.py](http://_vscodecontentref_/#%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cnightfire%5C%5CDocuments%5C%5Ccode%5C%5Cvirtual-assistant%5C%5CTextAssistant.py%22%2C%22_sep%22%3A1%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fnightfire%2FDocuments%2Fcode%2Fvirtual-assistant%2FTextAssistant.py%22%2C%22scheme%22%3A%22file%22%7D%7D)
+python TextAssistant.py
 ```
 
 ### Contributing
