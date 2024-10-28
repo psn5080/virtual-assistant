@@ -135,7 +135,7 @@ while assistant_online == True:
                 BugReport()
     
         #search google
-        elif() "search" in query and "for" in query and "google" in query) or ("google search") in query:
+        elif("search" in query and "for" in query and "google" in query) or ("google search") in query:
             try:
                 query = query.replace("search google for", "")
                 query = query.replace("search for", "")

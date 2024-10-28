@@ -6,7 +6,7 @@ pycoingecko
 pyjokes
 pyttsx3
 requests
-speech_recognition
+speechrecognition
 turtle
 webbrowser
 wikipedia
